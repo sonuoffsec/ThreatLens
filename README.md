@@ -594,8 +594,8 @@ If this tool helped you in your security assessments:
 
 **Made with ❤️ for the security community**
 
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/threatlens?style=social)](https://github.com/yourusername/threatlens)
-[![GitHub forks](https://img.shields.io/github/forks/yourusername/threatlens?style=social)](https://github.com/yourusername/threatlens)
+[![GitHub stars](https://img.shields.io/github/stars/sonuoffsec/threatlens?style=social)](https://github.com/sonuoffsec/threatlens)
+[![GitHub forks](https://img.shields.io/github/forks/sonuoffsec/threatlens?style=social)](https://github.com/sonuoffsec/threatlens)
 
 [⬆ Back to Top](#threatlens)
 
