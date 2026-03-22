@@ -584,8 +584,8 @@ If this tool helped you in your security assessments:
 
 ## 📬 Contact & Support
 
-- **Issues**: [GitHub Issues](https://github.com/yourusername/threatlens/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/threatlens/discussions)
+- **Issues**: [GitHub Issues](https://github.com/sonuoffsec/threatlens/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/sonuoffsec/threatlens/discussions)
 - **Security**: See [CONTRIBUTING.md](CONTRIBUTING.md) for responsible disclosure
 
 ---
